@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 permalink: /whoami
 ---
 # _Nan Yar_
