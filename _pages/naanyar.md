@@ -12,7 +12,7 @@ the enquiry in the form of "Who am I?", is the principal means._
 
   * [Who am I?](/Question1)
 
-  * [If I am none of there, then who am I?](/Question2.)
+  * [If I am none of there, then who am I?](/Question2)
 
   * [What is the nature of Awareness?](/Question3)
 
