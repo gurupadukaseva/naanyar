@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question28
+sidebar:
+  nav: nanyar-sidebar
 ---
 # What is liberation?
 

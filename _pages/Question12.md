@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question12
+sidebar:
+  nav: nanyar-sidebar
 ---
 # Are there no other means for making the mind quiescent?
 

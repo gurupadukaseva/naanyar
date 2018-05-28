@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question25
+sidebar:
+  nav: nanyar-sidebar
 ---
 # What is wisdom-insight (jnana drishti)?
 

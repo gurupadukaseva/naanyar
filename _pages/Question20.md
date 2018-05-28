@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question20
+sidebar:
+  nav: nanyar-sidebar
 ---
 # Is it not possible for God and the Guru to effect the liberation of a soul?
 

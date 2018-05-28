@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question17
+sidebar:
+  nav: nanyar-sidebar
 ---
 # Is not everything the work of God?
 

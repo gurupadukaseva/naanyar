@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question1
+sidebar:
+  nav: nanyar-sidebar
 ---
 
 # Who Am I?

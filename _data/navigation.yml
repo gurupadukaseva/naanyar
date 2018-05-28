@@ -9,3 +9,61 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  
+nanyar-sidebar:
+  - title: "Who am I?"
+    url: /Question1
+  - title: "If I am none of these, then who am I?"
+    url: /Question2
+  - title: "What is the nature of Awareness?"
+    url: /Question3
+  - title: "When will the realization of the Self be gained?"
+    url: /Question4
+  - title: "Will there not be realization of the Self.."
+    url: /Question5
+  - title: "Why?"
+    url: /Question6
+  - title: "When will the world which is the object seen be removed?"
+    url: /Question7
+  - title: "What is the nature of the mind?"
+    url: /Question8
+  - title: "What is the path of inquiry for understanding the nature of the mind?"
+    url: /Question9
+  - title: "How will the mind become quiescent?"
+    url: /Question10
+  - title: "What is the means for constantly holding on to the thought 'Who am I?'"
+    url: /Question11
+  - title: "Are there no other means for making the mind quiescent?"
+    url: /Question12
+  - title: "The residual impressions (thoughts) of objects appear unending like the waves of an ocean. When will all of them get destroyed?"
+    url: /Question13
+  - title: "Is it possible for the residual impressions of objects that come from befinningless time, as it were, to be reolved, and for one tom remain as the pure Self?"
+    url: /Question14
+  - title: "How long should inquiry be practised?"
+    url: /Question15
+  - title: "What is the nature of the Self?"
+    url: /Question16
+  - title: "Is not everything the work of God?"
+    url: /Question17
+  - title: "Of the devotees, who is the greatest?"
+    url: /Question18
+  - title: "What is non-attachment?"
+    url: /Question19
+  - title: "Is it not possible for God and the Guru to effect the liberation of a soul?"
+    url: /Question20
+  - title: "Is it necessary for one who longs for liberation to inquire into the nature of categories (tattvas)?"
+    url: /Question21
+  - title: "Is there no difference between waking and dream?"
+    url: /Question22
+  - title: "Is it any use reading books for those who long for liberation?"
+    url: /Question23
+  - title: "What is happiness?"
+    url: /Question24
+  - title: "What is wisdom-insight (jnana drishti)?"
+    url: /Question25
+  - title: "What is the relation between desirelessness and wisdom?"
+    url: /Question26
+  - title: "What is the difference between inquiry and meditation?"
+    url: /Question27
+  - title: "What is liberation?"
+    url: /Question28

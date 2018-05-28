@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question13
+sidebar:
+  nav: nanyar-sidebar
 ---
 # The residual impressions (thoughts) of objects appear unending like the waves of an ocean. When will all of them get destroyed?
 

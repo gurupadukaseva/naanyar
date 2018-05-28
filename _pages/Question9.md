@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question9
+sidebar:
+  nav: nanyar-sidebar
 ---
 
 # What is the path of inquiry for understanding the nature of the mind?

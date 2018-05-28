@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question22
+sidebar:
+  nav: nanyar-sidebar
 ---
 # Is there no difference between waking and dream?
 

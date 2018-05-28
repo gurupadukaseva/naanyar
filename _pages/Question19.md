@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question19
+sidebar:
+  nav: nanyar-sidebar
 ---
 # What is non-attachment?
 

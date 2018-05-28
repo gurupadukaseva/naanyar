@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question3
+sidebar:
+  nav: nanyar-sidebar
 ---
 
 # What is the nature of Awareness?

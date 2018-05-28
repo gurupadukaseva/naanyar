@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question21
+sidebar:
+  nav: nanyar-sidebar
 ---
 # Is it necessary for one who longs for liberation to inquire into the nature of categories (tattvas)?
 

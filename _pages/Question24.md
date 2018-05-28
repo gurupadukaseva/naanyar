@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question24
+sidebar:
+  nav: nanyar-sidebar
 ---
 # What is happiness?
 

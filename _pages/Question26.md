@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question26
+sidebar:
+  nav: nanyar-sidebar
 ---
 # What is the relation between desirelessness and wisdom?
 

@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question16
+sidebar:
+  nav: nanyar-sidebar
 ---
 # What is the nature of the Self?
 

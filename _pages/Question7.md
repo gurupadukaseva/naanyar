@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question7
+sidebar:
+  nav: nanyar-sidebar
 ---
 
 # When will the world which is the object seen be removed?

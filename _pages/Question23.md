@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question23
+sidebar:
+  nav: nanyar-sidebar
 ---
 # Is it any use reading books for those who long for liberation?
 

@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question18
+sidebar:
+  nav: nanyar-sidebar
 ---
 # Of the devotees, who is the greatest?
 

@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question10
+sidebar:
+  nav: nanyar-sidebar
 ---
 # How will the mind become quiescent?
 

@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question8
+sidebar:
+  nav: nanyar-sidebar
 ---
 # What is the nature of the mind?
 

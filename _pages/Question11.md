@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question11
+sidebar:
+  nav: nanyar-sidebar
 ---
 # What is the means for constantly holding on to the thought 'Who am I?'
 

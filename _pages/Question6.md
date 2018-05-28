@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question6
+sidebar:
+  nav: nanyar-sidebar
 ---
 
 # Why?

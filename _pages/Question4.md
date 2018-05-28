@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question4
+sidebar:
+  nav: nanyar-sidebar
 ---
 
 # When will the realization of the Self be gained?

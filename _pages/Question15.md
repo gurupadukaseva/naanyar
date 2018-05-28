@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question15
+sidebar:
+  nav: nanyar-sidebar
 ---
 # How long should inquiry be practised?
 

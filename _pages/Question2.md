@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question2
+sidebar:
+  nav: nanyar-sidebar
 ---
 # If I am none of these, then who am I?
 

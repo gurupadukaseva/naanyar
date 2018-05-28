@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /whoami
+sidebar:
+  nav: nanyar-sidebar
 ---
 # _Nan Yar_
 

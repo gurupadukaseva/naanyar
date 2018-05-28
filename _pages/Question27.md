@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question27
+sidebar:
+  nav: nanyar-sidebar
 ---
 # What is the difference between inquiry and meditaion?
 

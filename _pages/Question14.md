@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /Question14
+sidebar:
+  nav: nanyar-sidebar
 ---
 # Is it possible for the residual impressions of objects that come from beginningless time, as it were, to be resolved, and for one to remain as the pure Self?
 
