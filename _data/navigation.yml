@@ -2,6 +2,8 @@
 main:
   - title: "Nan Yar?"
     url: /whoami
+  - title: "Videos"
+    url: /videos
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
@@ -10,6 +12,12 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   
+videos-sidebar:
+  - title: "Ramana Maharshi Jeevita Charitra - Sri Chaganti Garu 1"
+    url: /ChagantiGaruMaharshi1
+  - title: "Ramana Maharshi Jeevita Charitra - Sri Chaganti Garu 2"
+    url: /ChagantiGaruMaharshi2
+
 nanyar-sidebar:
   - title: "Who am I?"
     url: /Question1
