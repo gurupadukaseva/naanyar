@@ -4,6 +4,8 @@ main:
     url: /whoami
   - title: "Videos"
     url: /videos
+  - title: "Search"
+    url: /search
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
